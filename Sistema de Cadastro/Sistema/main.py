@@ -513,7 +513,7 @@ def estoque():
 ##################################################################################################################
 
 janela_menu = tk.Tk()
-janela_menu.title('DURAPALLETS - MENU')
+janela_menu.title('MENU')
 
 
 
